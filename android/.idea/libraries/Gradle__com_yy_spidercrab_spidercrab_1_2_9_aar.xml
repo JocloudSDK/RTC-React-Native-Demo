@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yy.spidercrab:spidercrab:1.2.9@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e7353cfba1b88da1cb8315467e29f839/spidercrab-1.2.9/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e7353cfba1b88da1cb8315467e29f839/spidercrab-1.2.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e7353cfba1b88da1cb8315467e29f839/spidercrab-1.2.9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.spidercrab/spidercrab/1.2.9/afeadedfe1dcfbfe071fbcbbe97574b43d415ce8/spidercrab-1.2.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

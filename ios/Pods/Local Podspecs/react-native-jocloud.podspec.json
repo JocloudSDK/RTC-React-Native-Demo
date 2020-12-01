@@ -1,0 +1,28 @@
+{
+  "name": "react-native-jocloud",
+  "version": "1.1.0",
+  "summary": "react-native-jocloud",
+  "homepage": "https://jocloud.com",
+  "license": {
+    "file": "./LICENSE"
+  },
+  "authors": {
+    "Your Company": "email@example.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "static_framework": true,
+  "source": {
+    "path": "."
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ],
+    "thunder/thunderboltdynamic": [
+      "3.0.27"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: tv.athena:filetransfer-api:2.2.14@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e43983720ab44d5ecb5b423693c2db8c/filetransfer-api-2.2.14/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e43983720ab44d5ecb5b423693c2db8c/filetransfer-api-2.2.14/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e43983720ab44d5ecb5b423693c2db8c/filetransfer-api-2.2.14/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.athena/filetransfer-api/2.2.14/54f42f0cd85cb0193a26fffc1a01e0fe5d85b112/filetransfer-api-2.2.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

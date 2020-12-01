@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: tv.athena:klog:2.2.7@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8188bb92cabd32c19959e6b7d0775142/klog-2.2.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8188bb92cabd32c19959e6b7d0775142/klog-2.2.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8188bb92cabd32c19959e6b7d0775142/klog-2.2.7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.athena/klog/2.2.7/7a2a5e061553b1dd994e26cb38d7cfd821273bb7/klog-2.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

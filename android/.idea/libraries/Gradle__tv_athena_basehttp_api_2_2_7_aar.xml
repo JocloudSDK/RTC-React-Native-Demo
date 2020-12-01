@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: tv.athena:basehttp-api:2.2.7@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c492b5b31007c771c054f1b709a3070/basehttp-api-2.2.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c492b5b31007c771c054f1b709a3070/basehttp-api-2.2.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c492b5b31007c771c054f1b709a3070/basehttp-api-2.2.7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.athena/basehttp-api/2.2.7/1ee2a7193d7014ee15b75e5a03bcb0cba0e50612/basehttp-api-2.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

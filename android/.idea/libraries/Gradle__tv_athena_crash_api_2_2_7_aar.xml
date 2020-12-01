@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: tv.athena:crash-api:2.2.7@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/10b875e3ab7730cef71ddf06319689b5/crash-api-2.2.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/10b875e3ab7730cef71ddf06319689b5/crash-api-2.2.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/10b875e3ab7730cef71ddf06319689b5/crash-api-2.2.7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.athena/crash-api/2.2.7/87a010eddda8f66db1cd28fde87cc3b96868c3c7/crash-api-2.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

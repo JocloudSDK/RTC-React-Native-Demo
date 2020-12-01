@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yy.sdk.crashreport:caton:2.2.24@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c95a32eca6dd97c05ee66dcbbece8b0/caton-2.2.24/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c95a32eca6dd97c05ee66dcbbece8b0/caton-2.2.24/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c95a32eca6dd97c05ee66dcbbece8b0/caton-2.2.24/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.sdk.crashreport/caton/2.2.24/b7d879c7e0453fe5906a9b2d966430a042d8063c/caton-2.2.24-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

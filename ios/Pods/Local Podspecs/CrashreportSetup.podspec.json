@@ -1,0 +1,27 @@
+{
+  "name": "CrashreportSetup",
+  "version": "1.0.0",
+  "summary": "CrashreportSetup",
+  "description": "CrashreportSetup",
+  "homepage": "https://www.sunclouds.com/",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "iPhuan",
+  "source": {
+    "git": "https://www.sunclouds.com/",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source_files": "*.{h,m}",
+  "public_header_files": "*.h",
+  "dependencies": {
+    "crashreportsdk/staticCore": [
+      "2.0.5"
+    ]
+  }
+}

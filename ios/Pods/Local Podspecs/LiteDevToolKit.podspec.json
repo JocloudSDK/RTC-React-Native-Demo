@@ -1,0 +1,83 @@
+{
+  "name": "LiteDevToolKit",
+  "version": "1.0.0",
+  "summary": "LiteDevToolKit",
+  "description": "LiteDevToolKit",
+  "homepage": "https://www.sunclouds.com/",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "iPhuan",
+  "source": {
+    "git": "https://www.sunclouds.com/",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "subspecs": [
+    {
+      "name": "Common",
+      "source_files": "Common/**/*.{h,m}",
+      "public_header_files": "Common/**/*.h",
+      "frameworks": [
+        "AVFoundation",
+        "CoreTelephony"
+      ],
+      "dependencies": {
+        "AFNetworking": [
+          "~>3.2.1"
+        ]
+      }
+    },
+    {
+      "name": "Category",
+      "source_files": "Category/**/*.{h,m}",
+      "public_header_files": "Category/**/*.h",
+      "resources": "Category/Images/*.png",
+      "dependencies": {
+        "MBProgressHUD": [
+
+        ],
+        "LiteDevToolKit/Common": [
+
+        ]
+      }
+    },
+    {
+      "name": "TokenHelper",
+      "source_files": "TokenHelper/**/*.{h,m}",
+      "public_header_files": "TokenHelper/**/*.h",
+      "dependencies": {
+        "LiteDevToolKit/Common": [
+
+        ],
+        "LiteDevToolKit/Category": [
+
+        ]
+      }
+    },
+    {
+      "name": "UIComponent",
+      "source_files": "UIComponent/**/*.{h,m}",
+      "public_header_files": "UIComponent/**/*.h",
+      "dependencies": {
+        "Masonry": [
+
+        ],
+        "LiteDevToolKit/Common": [
+
+        ],
+        "LiteDevToolKit/Category": [
+
+        ]
+      }
+    }
+  ]
+}

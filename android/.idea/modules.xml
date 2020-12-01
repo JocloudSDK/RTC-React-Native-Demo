@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/React_Native_Jocloud_RTC_Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/React_Native_Jocloud_RTC_Demo.iml" group="React_Native_Jocloud_RTC_Demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="React Native Jocloud RTC Demo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1662351280/react-native-community_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1662351280/react-native-community_picker.iml" group="React Native Jocloud RTC Demo/react-native-community_picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-439484688/react-native-jocloud-rtc.iml" filepath="$PROJECT_DIR$/.idea/modules/-439484688/react-native-jocloud-rtc.iml" group="React Native Jocloud RTC Demo/react-native-jocloud-rtc" />
+    </modules>
+  </component>
+</project>

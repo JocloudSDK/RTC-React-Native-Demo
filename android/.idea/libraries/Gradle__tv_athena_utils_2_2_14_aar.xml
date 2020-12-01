@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: tv.athena:utils:2.2.14@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7bf5ab6f63111b21679feae802059f8/jetified-utils-2.2.14/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7bf5ab6f63111b21679feae802059f8/jetified-utils-2.2.14/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7bf5ab6f63111b21679feae802059f8/jetified-utils-2.2.14/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7bf5ab6f63111b21679feae802059f8/jetified-utils-2.2.14/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.athena/utils/2.2.14/38244db1179da8d3582ea8fdc738482a9d98b581/utils-2.2.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: tv.athena:utils-mini:2.2.14@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/64d2caa4dea92e58091c01afd1740e12/utils-mini-2.2.14/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/64d2caa4dea92e58091c01afd1740e12/utils-mini-2.2.14/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/64d2caa4dea92e58091c01afd1740e12/utils-mini-2.2.14/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.athena/utils-mini/2.2.14/dd30dfe58f914785953cdeacff4e4463857f79b1/utils-mini-2.2.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

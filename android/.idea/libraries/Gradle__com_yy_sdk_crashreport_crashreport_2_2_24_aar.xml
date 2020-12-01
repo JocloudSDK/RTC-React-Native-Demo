@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yy.sdk.crashreport:crashreport:2.2.24@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2274acce7352ff049681418e34cb5043/crashreport-2.2.24/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2274acce7352ff049681418e34cb5043/crashreport-2.2.24/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2274acce7352ff049681418e34cb5043/crashreport-2.2.24/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.sdk.crashreport/crashreport/2.2.24/d5e7113c4760a2237f73a3bba95712b01fa401f9/crashreport-2.2.24-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

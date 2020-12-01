@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rtc.thunder:thunderbolt:3.0.27@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/32174889f14f715f68a0eae1ec9f8ea5/jetified-thunderbolt-3.0.27/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/32174889f14f715f68a0eae1ec9f8ea5/jetified-thunderbolt-3.0.27/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/32174889f14f715f68a0eae1ec9f8ea5/jetified-thunderbolt-3.0.27/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rtc.thunder/thunderbolt/3.0.27/4145ddb2d37490c44e93e68edf0179b90c9bda08/thunderbolt-3.0.27-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
